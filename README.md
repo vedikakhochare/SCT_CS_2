@@ -4,16 +4,16 @@
 Develop a simple image encryption tool using pixel manipulation. Support operations like swapping pixel values or applying a basic mathematical operation to each pixel
 
 
-# 🎯 Why Is This Necessary?
+#  Why Is This Necessary?
 
-# 🔐 Understanding Data Privacy & Security
+#  Understanding Data Privacy & Security
 Images can contain sensitive information (like scanned IDs, medical records, personal photos).
 
 Encrypting image data protects it from unauthorized access or tampering, especially when transmitting or storing it.
 
 Even basic encryption techniques help introduce the importance of confidentiality in real-world applications.
 
-# 📷 Image Data is Just Numbers
+#  Image Data is Just Numbers
 At a technical level, an image is just a grid of numbers (pixels).
 
 Learning to manipulate these values gives you power to:
